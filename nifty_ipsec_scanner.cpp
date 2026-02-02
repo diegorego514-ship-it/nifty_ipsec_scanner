@@ -26,8 +26,6 @@ int main(){
 
     port_in_ports(scan_for_open_ports());
 
-    if(printf)
-
     stdout ;printf("[!] Your Port is open and vulnerable to hackers");
 
     stdout ;printf("[*] Recommendation - Regularly scan your ports and remember to close them out properly, also from now on update your devices from time to time in order to avoid getting caught by vulnerabilities: ");
