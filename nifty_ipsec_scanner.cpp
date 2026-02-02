@@ -28,10 +28,8 @@ int main(){
 
     if(printf)
 
-    printf("[!] Your Port is open and vulnerable to hackers");
+    stdout ;printf("[!] Your Port is open and vulnerable to hackers");
 
-    else;
-
-    printf("[*] Recommendation - Regularly scan your ports and remember to close them out properly, also from now on update your devices from time to time in order to avoid getting caught by vulnerabilities: ");
+    stdout ;printf("[*] Recommendation - Regularly scan your ports and remember to close them out properly, also from now on update your devices from time to time in order to avoid getting caught by vulnerabilities: ");
 
 }
